@@ -1,5 +1,3 @@
-# ischoolplanner.github.io
-
 # iSchool Planner - Daily Schedule
 
 **iSchool Planner - Daily Schedule** is a powerful scheduling app designed specifically for students to help manage classes, assignments, exams, and extracurricular activities with ease. Stay organized, boost productivity, and take control of your academic life!
