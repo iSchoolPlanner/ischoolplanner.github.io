@@ -15,6 +15,6 @@ Key Features:
 Why Choose iSchool Planner?
 iSchool Planner is more than just a schedule app—it’s your personal academic assistant. With its intuitive design and powerful features, you’ll spend less time organizing and more time focusing on what matters most: your education.
 
-Download iSchool Planner today and take control of your academic life! 🚀
+Download [iSchool Planner]:https://itunes.apple.com/us/app/id6476977227 today and take control of your academic life! 🚀
 
 Available Now on the App Store.
